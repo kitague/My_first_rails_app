@@ -24,3 +24,5 @@ Things you may want to cover:
 * ...
 
 Testing of installation of Ruby on Rails.
+
+On Testing of installation of Ruby on Rails, deployed into Ruku and build simple car.
